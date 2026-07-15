@@ -1,3 +1,10 @@
+> ⚠️ **This project is discontinued and no longer maintained.**
+>
+As a result, core functionality (`/generate_email`, `/fetchmail`, `/delete_email`, `/search`) will no longer work as expected.
+>
+> This repository is archived and will not receive further updates. Feel free to fork it and adapt it to a different disposable-email provider if you'd like to build on it.
+>
+> Thanks to everyone.
 ### Token and Configuration
 
 - **`telegramAuthToken`**: This token is used to authenticate requests to the Telegram Bot API.
